@@ -1,0 +1,1309 @@
+M05 S0
+
+G90
+G21
+G0 F1500
+; Cut Row 1 Column 1 Power: 29% Speed: 2% 
+G4 P0 
+G0 X-24.50 Y-24.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F25 
+G1 X-24.50 Y-20.50 
+G1 X-20.50 Y-20.50 
+G1 X-20.50 Y-24.50 
+G1 X-24.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 1 Power: 37% Speed: 2% 
+G4 P0 
+G0 X-19.50 Y-24.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F25 
+G1 X-19.50 Y-20.50 
+G1 X-15.50 Y-20.50 
+G1 X-15.50 Y-24.50 
+G1 X-19.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 1 Power: 45% Speed: 2% 
+G4 P0 
+G0 X-14.50 Y-24.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F25 
+G1 X-14.50 Y-20.50 
+G1 X-10.50 Y-20.50 
+G1 X-10.50 Y-24.50 
+G1 X-14.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 1 Power: 53% Speed: 2% 
+G4 P0 
+G0 X-9.50 Y-24.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F25 
+G1 X-9.50 Y-20.50 
+G1 X-5.50 Y-20.50 
+G1 X-5.50 Y-24.50 
+G1 X-9.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 1 Power: 61% Speed: 2% 
+G4 P0 
+G0 X-4.50 Y-24.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F25 
+G1 X-4.50 Y-20.50 
+G1 X-0.50 Y-20.50 
+G1 X-0.50 Y-24.50 
+G1 X-4.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 1 Power: 69% Speed: 2% 
+G4 P0 
+G0 X0.50 Y-24.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F25 
+G1 X0.50 Y-20.50 
+G1 X4.50 Y-20.50 
+G1 X4.50 Y-24.50 
+G1 X0.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 1 Power: 76% Speed: 2% 
+G4 P0 
+G0 X5.50 Y-24.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F25 
+G1 X5.50 Y-20.50 
+G1 X9.50 Y-20.50 
+G1 X9.50 Y-24.50 
+G1 X5.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 1 Power: 84% Speed: 2% 
+G4 P0 
+G0 X10.50 Y-24.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F25 
+G1 X10.50 Y-20.50 
+G1 X14.50 Y-20.50 
+G1 X14.50 Y-24.50 
+G1 X10.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 1 Power: 92% Speed: 2% 
+G4 P0 
+G0 X15.50 Y-24.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F25 
+G1 X15.50 Y-20.50 
+G1 X19.50 Y-20.50 
+G1 X19.50 Y-24.50 
+G1 X15.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 1 Power: 100% Speed: 2% 
+G4 P0 
+G0 X20.50 Y-24.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F25 
+G1 X20.50 Y-20.50 
+G1 X24.50 Y-20.50 
+G1 X24.50 Y-24.50 
+G1 X20.50 Y-24.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 2 Power: 29% Speed: 13% 
+G4 P0 
+G0 X-24.50 Y-19.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F133 
+G1 X-24.50 Y-15.50 
+G1 X-20.50 Y-15.50 
+G1 X-20.50 Y-19.50 
+G1 X-24.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 2 Power: 37% Speed: 13% 
+G4 P0 
+G0 X-19.50 Y-19.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F133 
+G1 X-19.50 Y-15.50 
+G1 X-15.50 Y-15.50 
+G1 X-15.50 Y-19.50 
+G1 X-19.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 2 Power: 45% Speed: 13% 
+G4 P0 
+G0 X-14.50 Y-19.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F133 
+G1 X-14.50 Y-15.50 
+G1 X-10.50 Y-15.50 
+G1 X-10.50 Y-19.50 
+G1 X-14.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 2 Power: 53% Speed: 13% 
+G4 P0 
+G0 X-9.50 Y-19.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F133 
+G1 X-9.50 Y-15.50 
+G1 X-5.50 Y-15.50 
+G1 X-5.50 Y-19.50 
+G1 X-9.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 2 Power: 61% Speed: 13% 
+G4 P0 
+G0 X-4.50 Y-19.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F133 
+G1 X-4.50 Y-15.50 
+G1 X-0.50 Y-15.50 
+G1 X-0.50 Y-19.50 
+G1 X-4.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 2 Power: 69% Speed: 13% 
+G4 P0 
+G0 X0.50 Y-19.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F133 
+G1 X0.50 Y-15.50 
+G1 X4.50 Y-15.50 
+G1 X4.50 Y-19.50 
+G1 X0.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 2 Power: 76% Speed: 13% 
+G4 P0 
+G0 X5.50 Y-19.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F133 
+G1 X5.50 Y-15.50 
+G1 X9.50 Y-15.50 
+G1 X9.50 Y-19.50 
+G1 X5.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 2 Power: 84% Speed: 13% 
+G4 P0 
+G0 X10.50 Y-19.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F133 
+G1 X10.50 Y-15.50 
+G1 X14.50 Y-15.50 
+G1 X14.50 Y-19.50 
+G1 X10.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 2 Power: 92% Speed: 13% 
+G4 P0 
+G0 X15.50 Y-19.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F133 
+G1 X15.50 Y-15.50 
+G1 X19.50 Y-15.50 
+G1 X19.50 Y-19.50 
+G1 X15.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 2 Power: 100% Speed: 13% 
+G4 P0 
+G0 X20.50 Y-19.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F133 
+G1 X20.50 Y-15.50 
+G1 X24.50 Y-15.50 
+G1 X24.50 Y-19.50 
+G1 X20.50 Y-19.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 3 Power: 29% Speed: 24% 
+G4 P0 
+G0 X-24.50 Y-14.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F242 
+G1 X-24.50 Y-10.50 
+G1 X-20.50 Y-10.50 
+G1 X-20.50 Y-14.50 
+G1 X-24.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 3 Power: 37% Speed: 24% 
+G4 P0 
+G0 X-19.50 Y-14.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F242 
+G1 X-19.50 Y-10.50 
+G1 X-15.50 Y-10.50 
+G1 X-15.50 Y-14.50 
+G1 X-19.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 3 Power: 45% Speed: 24% 
+G4 P0 
+G0 X-14.50 Y-14.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F242 
+G1 X-14.50 Y-10.50 
+G1 X-10.50 Y-10.50 
+G1 X-10.50 Y-14.50 
+G1 X-14.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 3 Power: 53% Speed: 24% 
+G4 P0 
+G0 X-9.50 Y-14.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F242 
+G1 X-9.50 Y-10.50 
+G1 X-5.50 Y-10.50 
+G1 X-5.50 Y-14.50 
+G1 X-9.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 3 Power: 61% Speed: 24% 
+G4 P0 
+G0 X-4.50 Y-14.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F242 
+G1 X-4.50 Y-10.50 
+G1 X-0.50 Y-10.50 
+G1 X-0.50 Y-14.50 
+G1 X-4.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 3 Power: 69% Speed: 24% 
+G4 P0 
+G0 X0.50 Y-14.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F242 
+G1 X0.50 Y-10.50 
+G1 X4.50 Y-10.50 
+G1 X4.50 Y-14.50 
+G1 X0.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 3 Power: 76% Speed: 24% 
+G4 P0 
+G0 X5.50 Y-14.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F242 
+G1 X5.50 Y-10.50 
+G1 X9.50 Y-10.50 
+G1 X9.50 Y-14.50 
+G1 X5.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 3 Power: 84% Speed: 24% 
+G4 P0 
+G0 X10.50 Y-14.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F242 
+G1 X10.50 Y-10.50 
+G1 X14.50 Y-10.50 
+G1 X14.50 Y-14.50 
+G1 X10.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 3 Power: 92% Speed: 24% 
+G4 P0 
+G0 X15.50 Y-14.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F242 
+G1 X15.50 Y-10.50 
+G1 X19.50 Y-10.50 
+G1 X19.50 Y-14.50 
+G1 X15.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 3 Power: 100% Speed: 24% 
+G4 P0 
+G0 X20.50 Y-14.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F242 
+G1 X20.50 Y-10.50 
+G1 X24.50 Y-10.50 
+G1 X24.50 Y-14.50 
+G1 X20.50 Y-14.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 4 Power: 29% Speed: 35% 
+G4 P0 
+G0 X-24.50 Y-9.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F350 
+G1 X-24.50 Y-5.50 
+G1 X-20.50 Y-5.50 
+G1 X-20.50 Y-9.50 
+G1 X-24.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 4 Power: 37% Speed: 35% 
+G4 P0 
+G0 X-19.50 Y-9.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F350 
+G1 X-19.50 Y-5.50 
+G1 X-15.50 Y-5.50 
+G1 X-15.50 Y-9.50 
+G1 X-19.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 4 Power: 45% Speed: 35% 
+G4 P0 
+G0 X-14.50 Y-9.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F350 
+G1 X-14.50 Y-5.50 
+G1 X-10.50 Y-5.50 
+G1 X-10.50 Y-9.50 
+G1 X-14.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 4 Power: 53% Speed: 35% 
+G4 P0 
+G0 X-9.50 Y-9.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F350 
+G1 X-9.50 Y-5.50 
+G1 X-5.50 Y-5.50 
+G1 X-5.50 Y-9.50 
+G1 X-9.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 4 Power: 61% Speed: 35% 
+G4 P0 
+G0 X-4.50 Y-9.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F350 
+G1 X-4.50 Y-5.50 
+G1 X-0.50 Y-5.50 
+G1 X-0.50 Y-9.50 
+G1 X-4.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 4 Power: 69% Speed: 35% 
+G4 P0 
+G0 X0.50 Y-9.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F350 
+G1 X0.50 Y-5.50 
+G1 X4.50 Y-5.50 
+G1 X4.50 Y-9.50 
+G1 X0.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 4 Power: 76% Speed: 35% 
+G4 P0 
+G0 X5.50 Y-9.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F350 
+G1 X5.50 Y-5.50 
+G1 X9.50 Y-5.50 
+G1 X9.50 Y-9.50 
+G1 X5.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 4 Power: 84% Speed: 35% 
+G4 P0 
+G0 X10.50 Y-9.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F350 
+G1 X10.50 Y-5.50 
+G1 X14.50 Y-5.50 
+G1 X14.50 Y-9.50 
+G1 X10.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 4 Power: 92% Speed: 35% 
+G4 P0 
+G0 X15.50 Y-9.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F350 
+G1 X15.50 Y-5.50 
+G1 X19.50 Y-5.50 
+G1 X19.50 Y-9.50 
+G1 X15.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 4 Power: 100% Speed: 35% 
+G4 P0 
+G0 X20.50 Y-9.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F350 
+G1 X20.50 Y-5.50 
+G1 X24.50 Y-5.50 
+G1 X24.50 Y-9.50 
+G1 X20.50 Y-9.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 5 Power: 29% Speed: 46% 
+G4 P0 
+G0 X-24.50 Y-4.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F458 
+G1 X-24.50 Y-0.50 
+G1 X-20.50 Y-0.50 
+G1 X-20.50 Y-4.50 
+G1 X-24.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 5 Power: 37% Speed: 46% 
+G4 P0 
+G0 X-19.50 Y-4.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F458 
+G1 X-19.50 Y-0.50 
+G1 X-15.50 Y-0.50 
+G1 X-15.50 Y-4.50 
+G1 X-19.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 5 Power: 45% Speed: 46% 
+G4 P0 
+G0 X-14.50 Y-4.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F458 
+G1 X-14.50 Y-0.50 
+G1 X-10.50 Y-0.50 
+G1 X-10.50 Y-4.50 
+G1 X-14.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 5 Power: 53% Speed: 46% 
+G4 P0 
+G0 X-9.50 Y-4.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F458 
+G1 X-9.50 Y-0.50 
+G1 X-5.50 Y-0.50 
+G1 X-5.50 Y-4.50 
+G1 X-9.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 5 Power: 61% Speed: 46% 
+G4 P0 
+G0 X-4.50 Y-4.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F458 
+G1 X-4.50 Y-0.50 
+G1 X-0.50 Y-0.50 
+G1 X-0.50 Y-4.50 
+G1 X-4.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 5 Power: 69% Speed: 46% 
+G4 P0 
+G0 X0.50 Y-4.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F458 
+G1 X0.50 Y-0.50 
+G1 X4.50 Y-0.50 
+G1 X4.50 Y-4.50 
+G1 X0.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 5 Power: 76% Speed: 46% 
+G4 P0 
+G0 X5.50 Y-4.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F458 
+G1 X5.50 Y-0.50 
+G1 X9.50 Y-0.50 
+G1 X9.50 Y-4.50 
+G1 X5.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 5 Power: 84% Speed: 46% 
+G4 P0 
+G0 X10.50 Y-4.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F458 
+G1 X10.50 Y-0.50 
+G1 X14.50 Y-0.50 
+G1 X14.50 Y-4.50 
+G1 X10.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 5 Power: 92% Speed: 46% 
+G4 P0 
+G0 X15.50 Y-4.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F458 
+G1 X15.50 Y-0.50 
+G1 X19.50 Y-0.50 
+G1 X19.50 Y-4.50 
+G1 X15.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 5 Power: 100% Speed: 46% 
+G4 P0 
+G0 X20.50 Y-4.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F458 
+G1 X20.50 Y-0.50 
+G1 X24.50 Y-0.50 
+G1 X24.50 Y-4.50 
+G1 X20.50 Y-4.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 6 Power: 29% Speed: 57% 
+G4 P0 
+G0 X-24.50 Y0.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F567 
+G1 X-24.50 Y4.50 
+G1 X-20.50 Y4.50 
+G1 X-20.50 Y0.50 
+G1 X-24.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 6 Power: 37% Speed: 57% 
+G4 P0 
+G0 X-19.50 Y0.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F567 
+G1 X-19.50 Y4.50 
+G1 X-15.50 Y4.50 
+G1 X-15.50 Y0.50 
+G1 X-19.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 6 Power: 45% Speed: 57% 
+G4 P0 
+G0 X-14.50 Y0.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F567 
+G1 X-14.50 Y4.50 
+G1 X-10.50 Y4.50 
+G1 X-10.50 Y0.50 
+G1 X-14.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 6 Power: 53% Speed: 57% 
+G4 P0 
+G0 X-9.50 Y0.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F567 
+G1 X-9.50 Y4.50 
+G1 X-5.50 Y4.50 
+G1 X-5.50 Y0.50 
+G1 X-9.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 6 Power: 61% Speed: 57% 
+G4 P0 
+G0 X-4.50 Y0.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F567 
+G1 X-4.50 Y4.50 
+G1 X-0.50 Y4.50 
+G1 X-0.50 Y0.50 
+G1 X-4.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 6 Power: 69% Speed: 57% 
+G4 P0 
+G0 X0.50 Y0.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F567 
+G1 X0.50 Y4.50 
+G1 X4.50 Y4.50 
+G1 X4.50 Y0.50 
+G1 X0.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 6 Power: 76% Speed: 57% 
+G4 P0 
+G0 X5.50 Y0.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F567 
+G1 X5.50 Y4.50 
+G1 X9.50 Y4.50 
+G1 X9.50 Y0.50 
+G1 X5.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 6 Power: 84% Speed: 57% 
+G4 P0 
+G0 X10.50 Y0.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F567 
+G1 X10.50 Y4.50 
+G1 X14.50 Y4.50 
+G1 X14.50 Y0.50 
+G1 X10.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 6 Power: 92% Speed: 57% 
+G4 P0 
+G0 X15.50 Y0.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F567 
+G1 X15.50 Y4.50 
+G1 X19.50 Y4.50 
+G1 X19.50 Y0.50 
+G1 X15.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 6 Power: 100% Speed: 57% 
+G4 P0 
+G0 X20.50 Y0.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F567 
+G1 X20.50 Y4.50 
+G1 X24.50 Y4.50 
+G1 X24.50 Y0.50 
+G1 X20.50 Y0.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 7 Power: 29% Speed: 67% 
+G4 P0 
+G0 X-24.50 Y5.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F675 
+G1 X-24.50 Y9.50 
+G1 X-20.50 Y9.50 
+G1 X-20.50 Y5.50 
+G1 X-24.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 7 Power: 37% Speed: 67% 
+G4 P0 
+G0 X-19.50 Y5.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F675 
+G1 X-19.50 Y9.50 
+G1 X-15.50 Y9.50 
+G1 X-15.50 Y5.50 
+G1 X-19.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 7 Power: 45% Speed: 67% 
+G4 P0 
+G0 X-14.50 Y5.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F675 
+G1 X-14.50 Y9.50 
+G1 X-10.50 Y9.50 
+G1 X-10.50 Y5.50 
+G1 X-14.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 7 Power: 53% Speed: 67% 
+G4 P0 
+G0 X-9.50 Y5.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F675 
+G1 X-9.50 Y9.50 
+G1 X-5.50 Y9.50 
+G1 X-5.50 Y5.50 
+G1 X-9.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 7 Power: 61% Speed: 67% 
+G4 P0 
+G0 X-4.50 Y5.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F675 
+G1 X-4.50 Y9.50 
+G1 X-0.50 Y9.50 
+G1 X-0.50 Y5.50 
+G1 X-4.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 7 Power: 69% Speed: 67% 
+G4 P0 
+G0 X0.50 Y5.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F675 
+G1 X0.50 Y9.50 
+G1 X4.50 Y9.50 
+G1 X4.50 Y5.50 
+G1 X0.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 7 Power: 76% Speed: 67% 
+G4 P0 
+G0 X5.50 Y5.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F675 
+G1 X5.50 Y9.50 
+G1 X9.50 Y9.50 
+G1 X9.50 Y5.50 
+G1 X5.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 7 Power: 84% Speed: 67% 
+G4 P0 
+G0 X10.50 Y5.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F675 
+G1 X10.50 Y9.50 
+G1 X14.50 Y9.50 
+G1 X14.50 Y5.50 
+G1 X10.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 7 Power: 92% Speed: 67% 
+G4 P0 
+G0 X15.50 Y5.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F675 
+G1 X15.50 Y9.50 
+G1 X19.50 Y9.50 
+G1 X19.50 Y5.50 
+G1 X15.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 7 Power: 100% Speed: 67% 
+G4 P0 
+G0 X20.50 Y5.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F675 
+G1 X20.50 Y9.50 
+G1 X24.50 Y9.50 
+G1 X24.50 Y5.50 
+G1 X20.50 Y5.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 8 Power: 29% Speed: 78% 
+G4 P0 
+G0 X-24.50 Y10.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F783 
+G1 X-24.50 Y14.50 
+G1 X-20.50 Y14.50 
+G1 X-20.50 Y10.50 
+G1 X-24.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 8 Power: 37% Speed: 78% 
+G4 P0 
+G0 X-19.50 Y10.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F783 
+G1 X-19.50 Y14.50 
+G1 X-15.50 Y14.50 
+G1 X-15.50 Y10.50 
+G1 X-19.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 8 Power: 45% Speed: 78% 
+G4 P0 
+G0 X-14.50 Y10.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F783 
+G1 X-14.50 Y14.50 
+G1 X-10.50 Y14.50 
+G1 X-10.50 Y10.50 
+G1 X-14.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 8 Power: 53% Speed: 78% 
+G4 P0 
+G0 X-9.50 Y10.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F783 
+G1 X-9.50 Y14.50 
+G1 X-5.50 Y14.50 
+G1 X-5.50 Y10.50 
+G1 X-9.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 8 Power: 61% Speed: 78% 
+G4 P0 
+G0 X-4.50 Y10.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F783 
+G1 X-4.50 Y14.50 
+G1 X-0.50 Y14.50 
+G1 X-0.50 Y10.50 
+G1 X-4.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 8 Power: 69% Speed: 78% 
+G4 P0 
+G0 X0.50 Y10.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F783 
+G1 X0.50 Y14.50 
+G1 X4.50 Y14.50 
+G1 X4.50 Y10.50 
+G1 X0.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 8 Power: 76% Speed: 78% 
+G4 P0 
+G0 X5.50 Y10.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F783 
+G1 X5.50 Y14.50 
+G1 X9.50 Y14.50 
+G1 X9.50 Y10.50 
+G1 X5.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 8 Power: 84% Speed: 78% 
+G4 P0 
+G0 X10.50 Y10.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F783 
+G1 X10.50 Y14.50 
+G1 X14.50 Y14.50 
+G1 X14.50 Y10.50 
+G1 X10.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 8 Power: 92% Speed: 78% 
+G4 P0 
+G0 X15.50 Y10.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F783 
+G1 X15.50 Y14.50 
+G1 X19.50 Y14.50 
+G1 X19.50 Y10.50 
+G1 X15.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 8 Power: 100% Speed: 78% 
+G4 P0 
+G0 X20.50 Y10.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F783 
+G1 X20.50 Y14.50 
+G1 X24.50 Y14.50 
+G1 X24.50 Y10.50 
+G1 X20.50 Y10.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 9 Power: 29% Speed: 89% 
+G4 P0 
+G0 X-24.50 Y15.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F892 
+G1 X-24.50 Y19.50 
+G1 X-20.50 Y19.50 
+G1 X-20.50 Y15.50 
+G1 X-24.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 9 Power: 37% Speed: 89% 
+G4 P0 
+G0 X-19.50 Y15.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F892 
+G1 X-19.50 Y19.50 
+G1 X-15.50 Y19.50 
+G1 X-15.50 Y15.50 
+G1 X-19.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 9 Power: 45% Speed: 89% 
+G4 P0 
+G0 X-14.50 Y15.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F892 
+G1 X-14.50 Y19.50 
+G1 X-10.50 Y19.50 
+G1 X-10.50 Y15.50 
+G1 X-14.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 9 Power: 53% Speed: 89% 
+G4 P0 
+G0 X-9.50 Y15.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F892 
+G1 X-9.50 Y19.50 
+G1 X-5.50 Y19.50 
+G1 X-5.50 Y15.50 
+G1 X-9.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 9 Power: 61% Speed: 89% 
+G4 P0 
+G0 X-4.50 Y15.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F892 
+G1 X-4.50 Y19.50 
+G1 X-0.50 Y19.50 
+G1 X-0.50 Y15.50 
+G1 X-4.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 9 Power: 69% Speed: 89% 
+G4 P0 
+G0 X0.50 Y15.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F892 
+G1 X0.50 Y19.50 
+G1 X4.50 Y19.50 
+G1 X4.50 Y15.50 
+G1 X0.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 9 Power: 76% Speed: 89% 
+G4 P0 
+G0 X5.50 Y15.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F892 
+G1 X5.50 Y19.50 
+G1 X9.50 Y19.50 
+G1 X9.50 Y15.50 
+G1 X5.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 9 Power: 84% Speed: 89% 
+G4 P0 
+G0 X10.50 Y15.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F892 
+G1 X10.50 Y19.50 
+G1 X14.50 Y19.50 
+G1 X14.50 Y15.50 
+G1 X10.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 9 Power: 92% Speed: 89% 
+G4 P0 
+G0 X15.50 Y15.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F892 
+G1 X15.50 Y19.50 
+G1 X19.50 Y19.50 
+G1 X19.50 Y15.50 
+G1 X15.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 9 Power: 100% Speed: 89% 
+G4 P0 
+G0 X20.50 Y15.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F892 
+G1 X20.50 Y19.50 
+G1 X24.50 Y19.50 
+G1 X24.50 Y15.50 
+G1 X20.50 Y15.50 
+G4 P0 
+M05 S0 
+; Cut Row 1 Column 10 Power: 29% Speed: 100% 
+G4 P0 
+G0 X-24.50 Y20.50 
+G4 P0 
+M03 S75 
+G4 P0 
+G1 F1000 
+G1 X-24.50 Y24.50 
+G1 X-20.50 Y24.50 
+G1 X-20.50 Y20.50 
+G1 X-24.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 2 Column 10 Power: 37% Speed: 100% 
+G4 P0 
+G0 X-19.50 Y20.50 
+G4 P0 
+M03 S95 
+G4 P0 
+G1 F1000 
+G1 X-19.50 Y24.50 
+G1 X-15.50 Y24.50 
+G1 X-15.50 Y20.50 
+G1 X-19.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 3 Column 10 Power: 45% Speed: 100% 
+G4 P0 
+G0 X-14.50 Y20.50 
+G4 P0 
+M03 S115 
+G4 P0 
+G1 F1000 
+G1 X-14.50 Y24.50 
+G1 X-10.50 Y24.50 
+G1 X-10.50 Y20.50 
+G1 X-14.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 4 Column 10 Power: 53% Speed: 100% 
+G4 P0 
+G0 X-9.50 Y20.50 
+G4 P0 
+M03 S135 
+G4 P0 
+G1 F1000 
+G1 X-9.50 Y24.50 
+G1 X-5.50 Y24.50 
+G1 X-5.50 Y20.50 
+G1 X-9.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 5 Column 10 Power: 61% Speed: 100% 
+G4 P0 
+G0 X-4.50 Y20.50 
+G4 P0 
+M03 S155 
+G4 P0 
+G1 F1000 
+G1 X-4.50 Y24.50 
+G1 X-0.50 Y24.50 
+G1 X-0.50 Y20.50 
+G1 X-4.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 6 Column 10 Power: 69% Speed: 100% 
+G4 P0 
+G0 X0.50 Y20.50 
+G4 P0 
+M03 S175 
+G4 P0 
+G1 F1000 
+G1 X0.50 Y24.50 
+G1 X4.50 Y24.50 
+G1 X4.50 Y20.50 
+G1 X0.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 7 Column 10 Power: 76% Speed: 100% 
+G4 P0 
+G0 X5.50 Y20.50 
+G4 P0 
+M03 S195 
+G4 P0 
+G1 F1000 
+G1 X5.50 Y24.50 
+G1 X9.50 Y24.50 
+G1 X9.50 Y20.50 
+G1 X5.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 8 Column 10 Power: 84% Speed: 100% 
+G4 P0 
+G0 X10.50 Y20.50 
+G4 P0 
+M03 S215 
+G4 P0 
+G1 F1000 
+G1 X10.50 Y24.50 
+G1 X14.50 Y24.50 
+G1 X14.50 Y20.50 
+G1 X10.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 9 Column 10 Power: 92% Speed: 100% 
+G4 P0 
+G0 X15.50 Y20.50 
+G4 P0 
+M03 S235 
+G4 P0 
+G1 F1000 
+G1 X15.50 Y24.50 
+G1 X19.50 Y24.50 
+G1 X19.50 Y20.50 
+G1 X15.50 Y20.50 
+G4 P0 
+M05 S0 
+; Cut Row 10 Column 10 Power: 100% Speed: 100% 
+G4 P0 
+G0 X20.50 Y20.50 
+G4 P0 
+M03 S255 
+G4 P0 
+G1 F1000 
+G1 X20.50 Y24.50 
+G1 X24.50 Y24.50 
+G1 X24.50 Y20.50 
+G1 X20.50 Y20.50 
+G4 P0 
+M05 S0 
+
+; Job Done return to user-defined finish pos
+G1 F1500 
+G1 X0 Y0 
