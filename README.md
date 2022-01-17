@@ -1,6 +1,8 @@
 # LaserPecker-Burntest
 gcode file for the LaserPecker Burntest
 
+DOES NOT WORK WITH THE LP2 as it will not honour power/speed setting in the gcode provided here.
+
 Power (S) goes from 75 to 255 in Steps of 20
 Speed (F) goes from 25 to 1000 in Steps of about 108 
 
